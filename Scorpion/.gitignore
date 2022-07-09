@@ -1,0 +1,9 @@
+DRC.rpt
+*-backups/
+Scorpion.csv
+Scorpion.kicad_prl
+Scorpion.kicad_sch-bak
+Scorpion.xml
+fp-info-cache
+fp-lib-table
+scorp-gerber/
