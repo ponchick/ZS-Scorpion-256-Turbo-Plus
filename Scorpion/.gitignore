@@ -6,4 +6,6 @@ Scorpion.kicad_sch-bak
 Scorpion.xml
 fp-info-cache
 fp-lib-table
-scorp-gerber/
+*-gerber/
+bom/
+\#auto_saved_files#
