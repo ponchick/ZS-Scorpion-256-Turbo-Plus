@@ -6,8 +6,8 @@
 
   (title_block
     (title "Scorpion ZS 256 Turbo+")
-    (date "2022-06-27")
-    (rev "p_v1.3")
+    (date "2022-07-09")
+    (rev "1.4")
     (comment 1 "Основано на схеме от Romych v16.2.4")
   )
 
@@ -11047,7 +11047,7 @@
   )
   (bus_entry (at 474.98 359.41) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 09aba94b-a588-4c6a-a375-93dadb347bb9)
+    (uuid 09aba94b-a588-4c6a-a375-93dadb347bba)
   )
   (bus_entry (at 396.24 172.72) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
