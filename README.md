@@ -22,6 +22,7 @@
 ### Версия 1.4
 - Ламели подходят только под шаг выводов 2.54, хотя изначально задумывались как универсальные под 2.5 и 2.54.
 - Ошибка в описании резистора R28 на схеме.
+- DD10 и DD30 слишком близко друг к другу.
 
 ## Файлы 
 Герберы для производства можно найти в папке gerbers, [список деталей](https://htmlpreview.github.io/?https://github.com/ponchick/ZS-Scorpion-256-Turbo-Plus/blob/main/Interactive%20BOM/Scorpion-BOM.html) в папке [Interactive BOM](https://github.com/ponchick/ZS-Scorpion-256-Turbo-Plus/tree/main/Interactive%20BOM).
