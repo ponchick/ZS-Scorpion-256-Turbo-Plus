@@ -20,7 +20,7 @@
   (fp_line (start 22.86 -4.445) (end 22.86 3.175) (layer "F.SilkS") (width 0.15) (tstamp 9cf0b171-6997-40bb-b6c8-f1e48e625b5b))
   (fp_line (start -22.86 -4.445) (end -22.86 3.175) (layer "F.SilkS") (width 0.15) (tstamp c268b7c0-ad6c-4f59-a63f-c902e1404bba))
   (fp_line (start 22.86 -4.445) (end 22.86 3.175) (layer "F.SilkS") (width 0.15) (tstamp ec4c8832-d7cf-412d-8bd7-9c18821d3106))
-  (pad "1" connect roundrect (at -20.32 -0.635) (size 2.286 7.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c4b7daf6-04bc-4b03-922c-69190520e292))
+  (pad "1" connect roundrect (at -20.32 -0.635) (size 2.24 7.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c4b7daf6-04bc-4b03-922c-69190520e292))
   (pad "2" connect roundrect (at -20.32 -0.635) (size 2.24 7.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25) (tstamp 19e7d749-dd09-42b0-b589-5f8b72f89a7a))
   (pad "3" connect roundrect (at -17.78 -0.635) (size 2.24 7.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp b9cd29e6-a475-4de4-8cec-b86069e676f6))
   (pad "4" connect roundrect (at -17.78 -0.635) (size 2.24 7.62) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25) (tstamp 9d8c3d97-bbad-4214-a8b1-4c193f2efe0b))
